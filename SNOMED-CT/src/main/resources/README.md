@@ -1,4 +1,4 @@
-There should be {
+In this folder you should add {
 
 ontology_201801.owl
 
